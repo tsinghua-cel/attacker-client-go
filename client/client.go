@@ -1,4 +1,4 @@
-package attackclient
+package client
 
 import (
 	"context"
