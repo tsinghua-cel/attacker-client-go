@@ -12,6 +12,7 @@ const (
 	CMD_ROLE_TO_ATTACKER // 角色转换为攻击者
 	CMD_EXIT
 	CMD_UPDATE_STATE
+	CMP_DELAY_BROAD_CAST
 )
 
 type AttackerResponse struct {
